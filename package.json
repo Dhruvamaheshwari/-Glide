@@ -20,7 +20,10 @@
   },
   "dependencies": {
     "@google/genai": "^1.48.0",
+    "child_process": "^1.0.2",
     "dotenv": "^17.3.1",
-    "nodemon": "^3.1.14"
+    "nodemon": "^3.1.14",
+    "os": "^0.1.2",
+    "util": "^0.12.5"
   }
 }
