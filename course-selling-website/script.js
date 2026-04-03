@@ -1,1 +1,0 @@
-console.log("Welcome to our Course Selling Website");
